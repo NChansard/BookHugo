@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://Nchansard.github.io/BookHugo/"
 title: Hacktimel
 paginate: 5
 theme: PaperMod
